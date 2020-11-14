@@ -12,7 +12,8 @@ Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 
 searchsploit CMS Made Simple
 
-CMS Made Simple < 2.2.10 - SQL Injection                                                                                              | exploits/php/webapps/46635.py
+CMS Made Simple < 2.2.10 - SQL Injection     
+| exploits/php/webapps/46635.py
 
 Mirror the exploit:
 
