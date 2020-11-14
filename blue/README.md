@@ -41,6 +41,7 @@ Flags:
 access_the_machine 
 sam_database_elevated_access
 admin_documents_can_be_valuable 
+
 Find all flags:
 dir *flag*.txt /s
 
