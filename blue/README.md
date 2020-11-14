@@ -33,15 +33,17 @@ Guest:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
 Jon:1000:aad3b435b51404eeaad3b435b51404ee:ffb43f0de35be4d9917ac0cc8ad57f8d:::
 
 
-Crack the hash with john:
-Echo “aad3b435b51404eeaad3b435b51404ee:ffb43f0de35be4d9917ac0cc8ad57f8d” > pwd_hash.txt = Jon:alqfna22
-
+Crack the hash with hashcat:
+Administrator:aad3b435b51404eeaad3b435b51404ee
+Guest:aad3b435b51404eeaad3b435b51404ee
+Jon:aad3b435b51404eeaad3b435b51404ee 
+All this hashes to hashes.txt and
+-> hashcat --username --show -a-0 -m 1000 hashes.txt /usr/share/wordlists/rockyou.txt
 
 Flags:
 access_the_machine 
 sam_database_elevated_access
 admin_documents_can_be_valuable 
-
 Find all flags:
 dir *flag*.txt /s
 
