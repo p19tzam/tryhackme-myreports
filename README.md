@@ -1,6 +1,6 @@
 <hr>
 
-# :open_file_folder: TryHackMe - Reports 
+# :open_file_folder: TryHackMe - myReports 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~ :triangular_flag_on_post: [TryHackMe Profile](https://tryhackme.com/p/Dhmosfunk)
